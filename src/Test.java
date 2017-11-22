@@ -18,6 +18,8 @@ public class Test {
 		nationalLib.addBook(new Book("Aylak Adam", "123-90-8", 45));
 		nationalLib.addBook(new Book("Tutunamayanlar", "987-90-8",748));
 		nationalLib.addBook(new Book("Art History", "342-9-18",748));
+		nationalLib.addBook(new Book("Biology", "42-9-118",48));
+
 
 		System.out.println(ozuLib);
 		System.out.println(nationalLib);	
